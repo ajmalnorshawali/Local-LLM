@@ -1,6 +1,4 @@
-[[_TOC_]]
-
-# Local LLM using Ollama
+# TUTORIAL - LOCAL LLM
 
 This tutorial enables local LLMs - AI-powered text generation without relying on cloud services.
 
